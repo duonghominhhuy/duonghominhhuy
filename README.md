@@ -21,7 +21,7 @@
 [![Android Studio](https://img.shields.io/badge/Android_Studio-4D7C34?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/duonghominhhuy) 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com) 
-[![Figma](https://img.shields.io/badge/figma-5658FB?style=flat&logo=figma&logoColor=white)](https://www.figma.com) 
+[![Figma](https://img.shields.io/badge/Figma-5658FB?style=flat&logo=figma&logoColor=white)](https://www.figma.com) 
 
 ### Reach out to me at [https://duonghominhhuy.github.io](https://duonghominhhuy.github.io)
 
