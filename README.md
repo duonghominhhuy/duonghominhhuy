@@ -6,14 +6,14 @@
 
 [![Swift](https://img.shields.io/badge/-Swift-181717?style=flat&logo=swift&&logoColor=orange)](https://swift.org)
 [![Objective-C](https://img.shields.io/badge/-Objective--C-gray?style=flat)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
-[![Flutter](https://img.shields.io/badge/Flutter-218CF9?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Electron](https://img.shields.io/badge/Electron-181717?style=flat&logo=electron&logoColor=A1E8F6)](https://www.electronjs.org)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7675DF?style=flat&logo=kotlin&&logoColor=white)](https://kotlinlang.org)
 [![Python](https://img.shields.io/badge/Python-FFA500?style=flat&logo=python&logoColor=white)](https://www.python.org) 
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://www.python.org) 
 [![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
  
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-04228C?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/) 
-[![Flutter](https://img.shields.io/badge/Flutter-238DF9?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Flutter](https://img.shields.io/badge/Flutter-218CF9?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Electron](https://img.shields.io/badge/Electron-181717?style=flat&logo=electron&logoColor=A1E8F6)](https://www.electronjs.org)
 [![HTML5](https://img.shields.io/badge/HTML5-red?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/) 
 
