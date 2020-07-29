@@ -2,7 +2,7 @@
 
 ![Huy Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duonghominhhuy&show_icons=true&hide_border=true&theme=highcontrast)
 
-## Languages & Tools
+### Languages & Tools
 
 [![Swift](https://img.shields.io/badge/-Swift-181717?style=flat&logo=swift&&logoColor=orange)](https://swift.org)
 [![Objective-C](https://img.shields.io/badge/-Objective--C-gray?style=flat)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
@@ -23,7 +23,7 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com) 
 [![Figma](https://img.shields.io/badge/Figma-5658FB?style=flat&logo=figma&logoColor=white)](https://www.figma.com) 
 
-### Reach out to me at [https://duonghominhhuy.github.io](https://duonghominhhuy.github.io)
+#### Reach out to me at [https://duonghominhhuy.github.io](https://duonghominhhuy.github.io)
 
 <!--
 **duonghominhhuy/duonghominhhuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
