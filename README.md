@@ -2,7 +2,7 @@
 
 ![Huy Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duonghominhhuy&show_icons=true&hide_border=true&theme=highcontrast)
 
-### Languages & Tools  🛠
+### 🛠  Languages & Tools
 
 [![Swift](https://img.shields.io/badge/-Swift-181717?style=flat&logo=swift&&logoColor=orange)](https://swift.org)
 [![Objective-C](https://img.shields.io/badge/-Objective--C-gray?style=flat)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
