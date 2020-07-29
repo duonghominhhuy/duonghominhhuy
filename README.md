@@ -8,7 +8,7 @@
 [![Objective-C](https://img.shields.io/badge/-Objective--C-gray?style=flat)](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7675DF?style=flat&logo=kotlin&&logoColor=white)](https://kotlinlang.org)
 [![Python](https://img.shields.io/badge/Python-FFA500?style=flat&logo=python&logoColor=white)](https://www.python.org) 
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://www.python.org) 
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev) 
 [![Java](https://img.shields.io/badge/Java-red?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
  
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-04228C?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/) 
