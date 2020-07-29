@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to Huy Duong's GitHub 🥳
+### Hi there 👋 Welcome to Huy Duong's GitHub 🥳🥳🥳
 
 ![Huy Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duonghominhhuy&show_icons=true&hide_border=true&theme=highcontrast)
 
