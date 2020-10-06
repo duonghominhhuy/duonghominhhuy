@@ -23,7 +23,7 @@
 
 [![Xcode](https://img.shields.io/badge/Xcode-181717?style=flat&logo=xcode&logoColor=4FBAF8)](https://developer.apple.com/xcode/)
 [![Android Studio](https://img.shields.io/badge/Android_Studio-4D7C34?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio) 
-[![Adobe XD](https://img.shields.io/badge/Adobe_XD-78085D?style=flat&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html)
+[![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF26BE?style=flat&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/duonghominhhuy) 
 
