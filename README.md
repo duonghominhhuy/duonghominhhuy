@@ -13,8 +13,8 @@
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7675DF?style=flat&logo=kotlin&&logoColor=white)](https://kotlinlang.org)
 [![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev)
-[![CSharp](https://img.shields.io/badge/-C_Sharp-73398D?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Python](https://img.shields.io/badge/-Python-FFA500?style=flat&logo=python&logoColor=white)](https://www.python.org) 
+[![CSharp](https://img.shields.io/badge/-C_Sharp-73398D?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
  
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-04228C?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/) 
 [![Flutter](https://img.shields.io/badge/-Flutter-218CF9?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
@@ -28,7 +28,6 @@
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-4D7C34?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) 
 [![Figma](https://img.shields.io/badge/-Figma-5658FB?style=flat&logo=figma&logoColor=white)](https://www.figma.com) 
-[![Adobe XD](https://img.shields.io/badge/-Adobe_XD-C6007E?style=flat&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/duonghominhhuy) 
 
