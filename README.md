@@ -18,11 +18,11 @@
  
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-04228C?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/) 
 [![Flutter](https://img.shields.io/badge/-Flutter-218CF9?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Angular](https://img.shields.io/badge/-Angular-EB0443?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+[![React](https://img.shields.io/badge/-React-41BDF5?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
+[![Electron](https://img.shields.io/badge/-Electron-181717?style=flat&logo=electron&logoColor=A1E8F6)](https://www.electronjs.org)
 [![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
-[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/) 
-[![Electron](https://img.shields.io/badge/-Electron-181717?style=flat&logo=electron&logoColor=A1E8F6)](https://www.electronjs.org)
 
 [![Xcode](https://img.shields.io/badge/-Xcode-181717?style=flat&logo=xcode&logoColor=4FBAF8)](https://developer.apple.com/xcode/)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-4D7C34?style=flat&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
