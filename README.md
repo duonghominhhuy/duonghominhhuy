@@ -14,7 +14,7 @@
 [![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)](https://www.java.com/en/)
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)](https://dart.dev)
 [![Python](https://img.shields.io/badge/-Python-FFA500?style=flat&logo=python&logoColor=white)](https://www.python.org) 
-[![CSharp](https://img.shields.io/badge/-C_Sharp-73398D?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![CSharp](https://img.shields.io/badge/-CSharp-73398D?style=flat&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
  
 [![SwiftUI](https://img.shields.io/badge/-SwiftUI-04228C?style=flat&logo=swift&logoColor=white)](https://developer.apple.com/xcode/swiftui/) 
 [![Flutter](https://img.shields.io/badge/-Flutter-218CF9?style=flat&logo=flutter&logoColor=white)](https://flutter.dev)
