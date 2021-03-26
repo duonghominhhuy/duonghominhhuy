@@ -1,6 +1,6 @@
 ### Hi There 🎷
 
-- 🔭 I'm currently working on my personal project: [CodePassion.dev](https://codepassion.dev).
+- 🔭 I'm currently working on my personal project [CodePassion.dev](https://codepassion.dev).
 - 🌱 I'm interested in Computer Science & Software Development.
 - 📫 How to reach me: [https://huyduong.us/](https://huyduong.us/)
 - 😄 Pronouns: He/Him/His.
