@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on my personal project [CodePassion.dev](https://codepassion.dev).
 - 🌱 I'm interested in Computer Science & Software Development.
-- 📫 How to reach me: [https://huyduong.me/](https://huyduong.me/)
+- 📫 How to reach me: [https://duonghominhhuy.github.io/](https://duonghominhhuy.github.io/)
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: Love reading and DJ music.
 
